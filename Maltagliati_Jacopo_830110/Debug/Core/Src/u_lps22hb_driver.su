@@ -1,0 +1,4 @@
+u_lps22hb_driver.c:12:9:lps22hb_platform_write	40	static
+u_lps22hb_driver.c:22:9:lps22hb_platform_read	40	static
+u_lps22hb_driver.c:32:6:D_LPS22HB_Init	16	static
+u_lps22hb_driver.c:65:6:D_LPS22HB_Read	16	static

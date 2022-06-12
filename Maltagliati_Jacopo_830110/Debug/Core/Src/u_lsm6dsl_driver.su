@@ -1,0 +1,5 @@
+u_lsm6dsl_driver.c:12:9:lsm6dsl_platform_write	40	static
+u_lsm6dsl_driver.c:21:9:lsm6dsl_platform_read	40	static
+u_lsm6dsl_driver.c:30:6:D_LSM6DSL_Init	16	static
+u_lsm6dsl_driver.c:91:6:D_LSM6DSL_XL_Read	16	static
+u_lsm6dsl_driver.c:104:6:D_LSM6DSL_G_Read	16	static
